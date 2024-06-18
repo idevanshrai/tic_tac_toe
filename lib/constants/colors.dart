@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
-class MainColor
-{
-  static Color primaryColor = Color(900);
-  static Color secondaryColor = Color.fromARGB(0, 233, 216, 84);
-  static Color accentColor =Color.fromARGB(255, 121, 214, 107);
+class MainColor {
+  static Color primaryColor = Color(0xFF000000); // Black
+  static Color secondaryColor = Color(0xFF9E9E9E); // Light grey
+  static Color accentColor = Color(0xFFFFD700); // Gold
 }
